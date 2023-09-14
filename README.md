@@ -10,6 +10,7 @@ Em resumo, o banco de dados permite o gerenciamento de pedidos, estoque, vendedo
 - Os clientes podem se registrar no sistema, fornecendo informações como login, senha, nome, CPF, email, endereço e telefone.
 - Os clientes podem fazer pedidos, adicionando várias bebidas ao carrinho. Cada pedido inclui detalhes como códigos de produtos, nomes de produtos, quantidades e valores.
 - Os pedidos registram data e hora do pedido, bem como o tempo de espera atual.
+- Os pedidos registram a forma de pagamento que pode ser: DINHEIRO💵 ou CARTÃO DE CRÉDITO/DÉBITO💳
 - Os pedidos incluem um valor total da compra.
 - Os pedidos têm um status que pode ser: PEDIDO REALIZADO🛒, EM ANDAMENTO💰, A CAMINHO🛵, ENTREGUE🍻 ou CANCELADO❌.
 - Os fornecedores de bebidas e o estoque são registrados, incluindo a quantidade disponível de cada produto para delivery.
@@ -30,6 +31,7 @@ O sistema utiliza um banco de dados relacional que inclui as seguintes tabelas p
 - Tabela "PRODUTO"
 - Tabela "ITEM_PEDIDO_VENDA"
 - Tabela "PEDIDO_VENDA"
+- Tabela "FORMA_PAGAMENTO"
 
 As tabelas estão relacionadas de acordo com as necessidades do sistema e conforme representado abaixo:
 
