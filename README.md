@@ -33,7 +33,7 @@ O sistema utiliza um banco de dados relacional que inclui as seguintes tabelas p
 
 As tabelas estão relacionadas de acordo com as necessidades do sistema e conforme representado abaixo:
 
-![Representação do Banco de Dados](https://github.com/gabrielborgeslima/BD-ze-delivery/blob/6088d72c0c68ba2981668fdbf661133c5ebf3caa/BD_ze-delivery.png)
+![Representação do Banco de Dados](https://github.com/gabrielborgeslima/BD-ze-delivery/blob/4697ff9b6e5807197e40df37f01d7acd10dca92a/BD_ze_delivery.png)
 
 
 ## Como Usar 👩‍💻
